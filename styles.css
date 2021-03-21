@@ -1,0 +1,108 @@
+
+body{
+
+    display: flex;
+    min-height: 100vh;
+    flex-direction: column;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', sans-serif; 
+ 
+ }
+ 
+ main{
+ 
+    flex: 1 0 auto;
+    font-size: 1.15rem;
+    background-color: rgb(207, 117, 32);
+ 
+ }
+ 
+ .marginpg{
+ 
+    margin-left: 20%;
+    margin-right: 20%;
+ 
+ }
+ 
+ #imgTL{
+ 
+     width: 240px;
+     height: 220px;
+     display: block;
+     margin-left: auto;
+     margin-right: auto; 
+ 
+ }
+ 
+ #titulo{
+ 
+     text-align: center; 
+     color: orange;
+     background-color: blue ;
+     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', sans-serif; 
+     font-size: 40px; 
+     font-style: italic;  
+     font-weight: 1000;
+ 
+ }
+ 
+ #titulo2{
+ 
+    text-align: center; 
+    color: orange;
+    background-color: blue ;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', sans-serif; 
+    font-size: 30px; 
+    font-style: italic;  
+    font-weight: 550;
+ 
+ }
+ 
+ #iconeTopoPG{
+ 
+    font-size: 40px;
+    position: fixed;
+    right: 15px;
+    bottom: 15px;
+    color: #00CED1;
+ 
+ }
+ 
+ footer{
+ 
+    background-color: rgb(207, 117, 32);
+    padding-top: 17px;
+    font-size: 1.15rem;
+ 
+ }
+ 
+ 
+ 
+ footer a{
+ 
+    text-decoration: none;
+    color: rgb(12, 100, 151);
+ 
+ }
+ 
+ footer a:hover{
+ 
+    text-decoration: none;
+    color: rgb(16, 214, 92);
+ 
+ }
+ 
+ #fraseFinal{
+ 
+    font-size: 1.15rem;
+    font-style: italic;
+ 
+ }
+ 
+ .footer-copyright{
+ 
+    background-color: rgba(110, 108, 102, 0.144);
+    
+ 
+ }
+ 
+ 
